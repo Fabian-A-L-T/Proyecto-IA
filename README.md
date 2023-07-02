@@ -1,1 +1,2 @@
 # Proyecto-IA
+Tecnica: GBJ
